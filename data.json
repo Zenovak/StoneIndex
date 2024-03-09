@@ -1,0 +1,46 @@
+{
+    "seo": {
+        "title": "",
+        "description": "",
+        "logo": "/stoneindexlogo.png",
+        "author": ""
+    },
+    "contacts": {
+        "main": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": ""
+    },
+    "home_banner": {
+        "main_text": "Stone Index",
+        "sub_text": "The Ultimate Open Source UI component collection",
+        "tiny_text": "",
+        "image": "/redstone.jpg"
+    },
+    "sections": [
+        {
+            "id": "features",
+            "main_text": "About Us",
+            "sub_text": "",
+            "tiny_text": "Features",
+            "type": "Accordion",
+            "contents": [
+                {
+                    "title": "The project",
+                    "description": "",
+                    "image": ""
+                },
+                {
+                    "title": "",
+                    "description": "",
+                    "image": ""
+                },
+                {
+                    "title": "",
+                    "description": "",
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}
